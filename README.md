@@ -1,21 +1,133 @@
-# 💫 About Me:
-You can fill those fields like this:<br><br>🚀 I'm currently working on:<br>AI-powered Crop Disease Detection, Crop Recommendation Systems, and Computer Vision projects using Python and Deep Learning.<br><br>🤝 I'm looking to collaborate on:<br>Open Source AI/ML, Computer Vision, Deep Learning, and Agriculture Technology projects.<br><br>💛 I'm looking for help with:<br>Model optimization, MLOps, ONNX deployment, and scalable AI applications.<br><br>🌱 I'm currently learning:<br>Deep Learning, Computer Vision, TensorFlow, PyTorch, Django, and Data Structures & Algorithms.<br><br>💬 Ask me about:<br>Python, Machine Learning, Deep Learning, Computer Vision, Git, GitHub, and AI for Agriculture.<br><br>⚡ Fun fact:<br>I enjoy turning real-world problems into AI solutions and believe every project is an opportunity to learn something new.<br><br>
+# Amulya Ashok Naik
 
+### AI & ML Engineering Student · SDMCET Dharwad · GATE 2027 Aspirant
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amulyanaik_132) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AMULYA NAIK) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AMULYA NAIK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amulyanaik958@gmail.com) 
+📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp; 🌾 Currently building a Crop Planning Mapping Engine
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amulyanaik442&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amulyanaik442&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amulyanaik442&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=amulyanaik442&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 About Me
+
+```python
+class AmulyaAshokNaik:
+    def __init__(self):
+        self.name        = "Amulya Ashok Naik"
+        self.role        = "AI & ML Engineering Undergrad"
+        self.college     = "SDMCET, Dharwad"
+        self.location    = "Dharwad, India 🇮🇳"
+        self.graduating  = 2027
+        self.goals       = [, "Placements", "Ship practical ML projects"]
+        self.languages   = ["Python", "SQL", "C"]
+        self.currently_building = "Crop Planning Mapping Engine 🌾"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+
+me = AmulyaAshokNaik()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+</div>
+
+
+
+## 🎯 Current Focus
+
+```
+🌱  Learning     →  Advanced Python, ML pipelines, DAA
+👯  Looking to   →  Collaborate on practical, outcome-driven ML/AI projects
+💬  Ask me about →  Python, SQL, ML fundamentals, data-driven projects
+
+```
+
+---
+
+## 🎓 Education
+
+**Shri Dharmasthala Manjunatheshwara College of Engineering and Technology (SDMCET), Dharwad**
+B.E. in Artificial Intelligence and Machine Learning | 2023 – 2027 | CGPA: 8.9
+
+**M.E.S. Chaitanya P.U. College, Sirsi**
+PCMB | 2021 – 2023 | 81.5%
+
+**St. Michael Convent High School, Dandeli**
+2018 – 2021 | 88.32%
+
+---
+
+## 📜 Certifications
+- NPTEL: Python for Data Science (Jul–Dec 2025)
+
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:amulyanaik958@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 💜 Thanks for stopping by!
+
+*"Every dataset has a story — I just help it speak."*
