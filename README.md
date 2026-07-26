@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Naik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c400c7,100:00a3a5&height=200&section=header&text=Amulya%20Naik&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 # Amulya Ashok Naik
