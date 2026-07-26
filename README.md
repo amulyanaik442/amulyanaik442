@@ -1,13 +1,15 @@
-https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Naik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Naik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18" width="100%" />
+</div>
+
 # Amulya Ashok Naik
 
-### AI & ML Engineering Student · SDMCET Dharwad 
+### AI & ML Engineering Student · SDMCET Dharwad · GATE 2027 Aspirant
 
-📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp;
+📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp; 🌾 Currently building a Crop Planning Mapping Engine
 
-<img src="https://komarev.com/ghpvc/?username=amulyanaik442&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/amulyanaik442?style=for-the-badge&color=purple&labelColor=1a1a2e" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
+
 ---
 
 ## 🧬 About Me
@@ -20,8 +22,8 @@ class AmulyaAshokNaik:
         self.college     = "SDMCET, Dharwad"
         self.location    = "Dharwad, India 🇮🇳"
         self.graduating  = 2027
-        self.goals       = [, "Placements", "Ship practical ML projects"]
-        self.languages   = ["Python", "SQL", "C"]
+        self.goals       = ["Crack GATE 2027", "Placements", "Ship practical ML projects"]
+        self.languages   = ["Python", "Java", "SQL", "C"]
         self.currently_building = "Crop Planning Mapping Engine 🌾"
 
     def say_hi(self):
@@ -48,6 +50,7 @@ me.say_hi()
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -67,6 +70,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
@@ -84,15 +88,33 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
+---
 
+## 🚀 Featured Projects
+
+### 🌾 Crop Planning Mapping Engine
+Large-scale agronomic data project mapping crop planning across Indian states and global countries — includes yield estimation using NDVI + soil parameters (Light Use Efficiency modeling) and fertilizer (NPK) recommendation generation.
+
+### 🤖 AI Chatbot
+Interactive, Google-style intelligent search assistant built with Python and NLP for accurate, human-like query resolution.
+
+### 📊 Student Report Tracking System
+Application to track and manage student academic performance — report generation, data visualization, and performance analysis. Built with Python, MySQL, HTML, and CSS.
+
+### 📱 Faculty Attendance Management App
+Android Studio (Java) application for managing and tracking faculty attendance.
+
+---
 
 ## 🎯 Current Focus
 
 ```
+🔭  Working on   →  Crop Planning Mapping Engine (agronomic data + ML)
+📚  Preparing for →  GATE 2027 & Placements
 🌱  Learning     →  Advanced Python, ML pipelines, DAA
 👯  Looking to   →  Collaborate on practical, outcome-driven ML/AI projects
-💬  Ask me about →  Python, SQL, ML fundamentals, data-driven projects
-
+💬  Ask me about →  Python, Java, SQL, ML fundamentals, data-driven projects
+⚡  Fun fact     →  I believe every dataset has a story — I just help it speak!
 ```
 
 ---
@@ -100,7 +122,7 @@ me.say_hi()
 ## 🎓 Education
 
 **Shri Dharmasthala Manjunatheshwara College of Engineering and Technology (SDMCET), Dharwad**
-B.E. in Artificial Intelligence and Machine Learning | 2023 – 2027 | CGPA: 8.9
+B.E. in Artificial Intelligence and Machine Learning | 2023 – 2027 | CGPA: 8.6
 
 **M.E.S. Chaitanya P.U. College, Sirsi**
 PCMB | 2021 – 2023 | 81.5%
@@ -112,7 +134,7 @@ PCMB | 2021 – 2023 | 81.5%
 
 ## 📜 Certifications
 - NPTEL: Python for Data Science (Jul–Dec 2025)
-
+- Physics Wallah Shreshth 2.0 — GATE + Placement Course (CS, Batch C)
 
 ---
 
