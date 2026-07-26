@@ -1,8 +1,8 @@
 # Amulya Ashok Naik
 
-### AI & ML Engineering Student · SDMCET Dharwad · GATE 2027 Aspirant
+### AI & ML Engineering Student · SDMCET Dharwad 
 
-📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp; 🌾 Currently building a Crop Planning Mapping Engine
+📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
 
