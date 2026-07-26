@@ -8,7 +8,9 @@
 
 📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=amulyanaik442&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/amulyanaik442?style=for-the-badge&color=purple&labelColor=1a1a2e" alt="Followers"/>
 
 ---
 
@@ -22,7 +24,7 @@ class AmulyaAshokNaik:
         self.college     = "SDMCET, Dharwad"
         self.location    = "Dharwad, India 🇮🇳"
         self.graduating  = 2027
-        self.goals       = ["Crack GATE 2027", "Placements", "Ship practical ML projects"]
+        self.goals       = [ "Placements", "Ship practical ML projects"]
         self.languages   = ["Python", "SQL", "C"]
        
 
@@ -50,7 +52,6 @@ me.say_hi()
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -95,26 +96,17 @@ me.say_hi()
 ### 🌾 Crop Planning Mapping Engine
 Large-scale agronomic data project mapping crop planning across Indian states and global countries — includes yield estimation using NDVI + soil parameters (Light Use Efficiency modeling) and fertilizer (NPK) recommendation generation.
 
-### 🤖 AI Chatbot
-Interactive, Google-style intelligent search assistant built with Python and NLP for accurate, human-like query resolution.
 
-### 📊 Student Report Tracking System
-Application to track and manage student academic performance — report generation, data visualization, and performance analysis. Built with Python, MySQL, HTML, and CSS.
 
-### 📱 Faculty Attendance Management App
-Android Studio (Java) application for managing and tracking faculty attendance.
-
----
 
 ## 🎯 Current Focus
 
 ```
 🔭  Working on   →  Crop Planning Mapping Engine (agronomic data + ML)
-📚  Preparing for →  GATE 2027 & Placements
 🌱  Learning     →  Advanced Python, ML pipelines, DAA
 👯  Looking to   →  Collaborate on practical, outcome-driven ML/AI projects
-💬  Ask me about →  Python, Java, SQL, ML fundamentals, data-driven projects
-⚡  Fun fact     →  I believe every dataset has a story — I just help it speak!
+💬  Ask me about →  Python, SQL, ML fundamentals, data-driven projects
+
 ```
 
 ---
@@ -122,7 +114,7 @@ Android Studio (Java) application for managing and tracking faculty attendance.
 ## 🎓 Education
 
 **Shri Dharmasthala Manjunatheshwara College of Engineering and Technology (SDMCET), Dharwad**
-B.E. in Artificial Intelligence and Machine Learning | 2023 – 2027 | CGPA: 8.6
+B.E. in Artificial Intelligence and Machine Learning | 2023 – 2027 | CGPA: 8.9
 
 **M.E.S. Chaitanya P.U. College, Sirsi**
 PCMB | 2021 – 2023 | 81.5%
@@ -134,7 +126,6 @@ PCMB | 2021 – 2023 | 81.5%
 
 ## 📜 Certifications
 - NPTEL: Python for Data Science (Jul–Dec 2025)
-- Physics Wallah Shreshth 2.0 — GATE + Placement Course (CS, Batch C)
 
 ---
 
