@@ -4,8 +4,9 @@
 
 📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
-
+<img src="https://komarev.com/ghpvc/?username=amulyanaik442&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/amulyanaik442?style=for-the-badge&color=purple&labelColor=1a1a2e" alt="Followers"/>
 ---
 
 ## 🧬 About Me
