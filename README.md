@@ -1,21 +1,10 @@
-<div align="center">
+# Amulya Ashok Naik
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Ashok%20Naik&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Undergrad%20%7C%20GATE%202027%20Aspirant%20%7C%20Builder&descAlignY=60&descSize=18" width="100%" />
+### AI & ML Engineering Student · SDMCET Dharwad · GATE 2027 Aspirant
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A7%A0;GATE+2027+Aspirant+%F0%9F%93%9A;Python+%7C+Java+%7C+SQL+Dev+%F0%9F%90%8D;Building+the+Crop+Planning+Mapping+Engine+%F0%9F%8C%BE;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
-</a>
+📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp; 🌾 Currently building a Crop Planning Mapping Engine
 
-<br/>
-
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=purple&labelColor=1a1a2e" alt="Followers"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
 
 ---
 
@@ -159,12 +148,6 @@ PCMB | 2021 – 2023 | 81.5%
 
 ---
 
-<div align="center">
-
 ### 💜 Thanks for stopping by!
 
-*"In God we trust; all others must bring data."* — W. Edwards Deming
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+*"Every dataset has a story — I just help it speak."*
