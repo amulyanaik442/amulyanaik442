@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Naik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amulya%20Naik&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Explorer&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 # Amulya Ashok Naik
 
-### AI & ML Engineering Student · SDMCET Dharwad · GATE 2027 Aspirant
+### AI & ML Engineering Student · SDMCET Dharwad 
 
-📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp; 🌾 Currently building a Crop Planning Mapping Engine
+📍 Dharwad, India &nbsp;|&nbsp; 🎓 Graduating 2027 &nbsp;|&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6c63ff" alt="Profile Views"/>
 
@@ -23,8 +23,8 @@ class AmulyaAshokNaik:
         self.location    = "Dharwad, India 🇮🇳"
         self.graduating  = 2027
         self.goals       = ["Crack GATE 2027", "Placements", "Ship practical ML projects"]
-        self.languages   = ["Python", "Java", "SQL", "C"]
-        self.currently_building = "Crop Planning Mapping Engine 🌾"
+        self.languages   = ["Python", "SQL", "C"]
+       
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together 🚀")
